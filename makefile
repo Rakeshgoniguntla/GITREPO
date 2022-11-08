@@ -5,13 +5,13 @@ big2.o : big2.c
 fact.o : fact.c
 	gcc -c fact.c
 rev.o : rev.c
-	gcc -c fact.c
+	gcc -c rev.c
 pallendrome.o : pallendrome.c
 	gcc -c pallendrome.c
 big3.o : big3.c
-	gcc -c big3.o
+	gcc -c big3.c
 sum2.o : sum2.c
-	gcc -c sum2.o
+	gcc -c sum2.c
 fibanaci.o : fibanaci.c
 	gcc -c fibanaci.c
 sort.o : sort.c
